@@ -7,4 +7,4 @@ def sum_digit(num):
     r += num % 10
     return r
 
-print(sum_digit(687))
+print(sum_digit(6687))
